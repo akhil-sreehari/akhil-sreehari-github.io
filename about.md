@@ -4,7 +4,8 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! I am Akhil and I'll be your data-coach from now on! Feel free to message me on <ahref="https://www.linkedin.com/in/akhil-sreehari-aa8b20a0">LinkedIn</a> or
+  <ahref="https://www.facebook.com/akhil.sreehari">Facebook</a>. Cheers!
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
