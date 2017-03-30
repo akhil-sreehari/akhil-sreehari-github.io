@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 title:            Data-Driven Analytics
 tagline:          'Data Science and Analytics'
-description:      'Just a bunch of my experiments playing around with datasets.
-                  Presented to you by <a href="https://www.linkedin.com/in/akhil-sreehari-aa8b20a0" target="_blank">@Akhil Sreehari</a>.'
+description:      '<a href="https://www.linkedin.com/in/akhil-sreehari-aa8b20a0" target="_blank">@Akhil Sreehari</a>
+                  Just a bunch of my experiments playing around with datasets.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
