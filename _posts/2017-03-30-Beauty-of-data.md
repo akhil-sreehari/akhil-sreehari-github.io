@@ -91,6 +91,8 @@ plt.show()
 
 {% endhighlight %}
 
+ <img src='/Users/Akhil/Desktop/linechart.png'/>
+
 Plotting a bar chart
 {% highlight js %}
 plt.hist(gucci_dataframe['price'].tolist())
