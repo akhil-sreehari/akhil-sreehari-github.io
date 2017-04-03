@@ -88,19 +88,18 @@ plt.plot(gucci_dataframe['price'].tolist())
 plt.xlabel('Price level')
 plt.ylabel('Number of ties')
 plt.show()
-
 {% endhighlight %}
 
- <img src='/Users/Akhil/Desktop/linechart.png'/>
+![placeholder](https://github.com/akhil-sreehari/BasicDataAnalysis/raw/master/linechart.png)
 
-Plotting a bar chart
+Plotting a hist chart
 {% highlight js %}
 plt.hist(gucci_dataframe['price'].tolist())
 plt.xlabel('Price level')
 plt.ylabel('Number of ties')
 plt.show()   
-
 {% endhighlight %}
+![placeholder](https://github.com/akhil-sreehari/BasicDataAnalysis/raw/master/histchart.png)
 
 
 Thanks!
