@@ -3,8 +3,8 @@ layout: post
 title: Basic Data Analysis
 ---
 
-Hi folks! Let's check out how we can plot a simple histogram analyzing the price of Gucci ties available in a reasonably big data sample.
-Before we proceed, let's download 'data.csv' from [Akhil's Github Repo](https://github.com/akhil-sreehari/TieAnalysis)
+Hi folks! Let's figure out how we can plot a simple histogram analyzing the price of Gucci ties available in a reasonably big data sample (around 5000 rec).
+Before we proceed, let's download 'data.csv' from [Akhil's Github Repo](https://github.com/akhil-sreehari/BasicDataAnalysis)
 
 Let's fire up the jupyter notebook or pycharm or any editor you like.
 
@@ -102,4 +102,4 @@ plt.show()
 ![placeholder](https://github.com/akhil-sreehari/BasicDataAnalysis/raw/master/histchart.png)
 
 
-Thanks!
+Wew. Now, that was easy!
