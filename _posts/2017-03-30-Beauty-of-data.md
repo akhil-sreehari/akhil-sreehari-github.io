@@ -45,8 +45,9 @@ for data in data_list:
 prices_total = float( '%.2f' % sum(prices))
 {% endhighlight %}  
 
+Let's fing the average, min and max now!
+
 {% highlight js %}
-//Let's fing the average, min and max now!
 float('%.2f' % (prices_total/ len(prices)))
 min(prices)
 max(prices)
@@ -73,11 +74,11 @@ for k, v in gucci_dataframe[['price']].iterrows():
 gucci_sum/ len(gucci_dataframe[['price']])
 {% endhighlight %}
 
+Export result to a csv and excel file
+
 {% highlight js %}
-//Export result to a csv file
 gucci_dataframe.to_csv('exported_from_gucci_dataframe.csv', sep='\t', encoding='utf-8')
 
-//Export result to an excel file
 gucci_dataframe.to_excel('exported_from_gucci_dataframe.xls')
 {% endhighlight %}
 
