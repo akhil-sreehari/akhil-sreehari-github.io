@@ -8,7 +8,7 @@ Before we proceed, let's download 'prima-data.csv' from [Akhil's Github Repo](ht
 
 Let's fire up the jupyter notebook or pycharm or any editor you like.
 
-{% highlight js %}
+
 //We will be the using the following 3 imports
 
 import pandas as pd
@@ -215,11 +215,3 @@ nb_predict_test = nb_model.predict(x_test)
 from sklearn import metrics # performance metrics library
 
 metrics.accuracy_score(y_test, nb_predict_test) #Accuracy
-
-
-
-
-
-
-
-{% endhighlight %}
