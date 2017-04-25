@@ -50,7 +50,7 @@ ax.matshow(corr)
 plt.xticks(range(len(corr.columns)), corr.columns)
 plt.yticks(range(len(corr.columns)), corr.columns)
 
-![placeholder](https://github.com/akhil-sreehari/DiabetesPrediction/blob/master/Screen%20Shot%202017-04-25%20at%204.13.30%20PM.png)
+![placeholder](https://github.com/akhil-sreehari/DiabetesPrediction/raw/master/Screen%20Shot%202017-04-25%20at%204.13.30%20PM.png)
 
 ### Dark Red patch shows that skin and thickness are rather similar or correlated. Why would we want 2 things which essentially give us the same information?
 
