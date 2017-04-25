@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic Data Analysis
+title: Tie Analysis
 ---
 
 Hi folks! Let's figure out how we can plot a simple histogram analyzing the price of Gucci ties available in a reasonably big data sample (around 5000 rec).
